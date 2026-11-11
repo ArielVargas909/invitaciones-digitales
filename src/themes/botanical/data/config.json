@@ -1,0 +1,75 @@
+{
+  "variant": "crystal",
+  "event": {
+    "type": "boda",
+    "title": "Ana & Carlos",
+    "date": "2026-12-15T15:00:00",
+    "hashtag": "#BodaAnaYCarlos",
+    "message": "Nos casamos y queremos compartir este momento tan especial contigo."
+  },
+  "locations": [
+    {
+      "name": "Iglesia de San Francisco",
+      "address": "Plaza San Francisco, La Paz",
+      "time": "15:00 hrs",
+      "mapsUrl": "https://maps.google.com/?q=Iglesia+San+Francisco+La+Paz"
+    },
+    {
+      "name": "Salón de Eventos El Gran Imperio",
+      "address": "Av. Principal, Zona Sur",
+      "time": "17:30 hrs",
+      "mapsUrl": "https://maps.google.com/?q=Calacoto+La+Paz"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "15:00 hrs",
+      "activity": "Ceremonia Religiosa",
+      "description": "Bendición nupcial e intercambio de votos."
+    },
+    {
+      "time": "17:30 hrs",
+      "activity": "Cóctel de Bienvenida",
+      "description": "Recepción de invitados y brindis en los jardines."
+    },
+    {
+      "time": "19:30 hrs",
+      "activity": "Cena & Primer Baile",
+      "description": "Banquete principal y apertura de pista de baile."
+    }
+  ],
+  "entertainment": {
+    "music": [
+      "Grupo Maroyu (19:00 hrs - Cumbia)",
+      "Banda Intercontinental Poopó (22:00 hrs - Folklore)"
+    ],
+    "games": [
+      "Lanzamiento del ramo y la liga",
+      "Trivia de los novios por mesas",
+      "Cabina de fotos 360°"
+    ]
+  },
+  "honorees": [
+    "Padrinos de Religión: Sr. Juan Pérez y Sra. María López",
+    "Padrinos de Civil: Sr. Carlos Mamani y Sra. Elena Quispe",
+    "Padrinos de Aros: Familia Mendoza"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=800&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=800&auto=format&fit=crop"
+  ],
+  "logistics": {
+    "rules": [
+      "Evento exclusivo para adultos (No niños)",
+      "Prohibido tomar fotografías con flash durante la ceremonia"
+    ]
+  },
+  "protocol": {
+    "gifts": "Mesa de regalos / Lluvia de sobres en recepción",
+    "accommodations": "Hotel sugerido para invitados del interior: Hotel Casa Grande"
+  },
+  "extras": {
+    "hashtag": "#BodaAnaYCarlos2026",
+    "wifi": "Red: BodaAnaCarlos / Pass: Amor2026"
+  }
+}

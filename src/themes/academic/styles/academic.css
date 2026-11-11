@@ -1,0 +1,58 @@
+/* Variantes visuales del tema Academic inspiradas en el diseño Art Déco de Graduación */
+.academic-theme.variant-tech-future {
+  --theme-bg: #141414;
+  --theme-text: #F5F5F4;
+  --theme-muted: #A8A29E;
+  --theme-accent: #C8A951;
+  --theme-accent-contrast: #141414;
+  --theme-card-bg: rgba(26, 26, 26, 0.9);
+  --theme-card-border: rgba(200, 169, 81, 0.45);
+}
+
+.academic-theme.variant-dawn-art {
+  --theme-bg: #1D0B14;
+  --theme-text: #FFF1F2;
+  --theme-muted: #E2C6CE;
+  --theme-accent: #DFB15B;
+  --theme-accent-contrast: #1D0B14;
+  --theme-card-bg: rgba(45, 16, 31, 0.88);
+  --theme-card-border: rgba(223, 177, 91, 0.45);
+}
+
+.academic-theme.variant-marble-legacy {
+  --theme-bg: #F8F6F0;
+  --theme-text: #1C1917;
+  --theme-muted: #57534E;
+  --theme-accent: #9A7B2C;
+  --theme-accent-contrast: #FFFFFF;
+  --theme-card-bg: rgba(255, 255, 255, 0.92);
+  --theme-card-border: rgba(154, 123, 44, 0.4);
+}
+
+.academic-theme {
+  background-color: var(--theme-bg);
+  color: var(--theme-text);
+}
+
+.academic-card {
+  background: var(--theme-card-bg);
+  border: 1px solid var(--theme-card-border);
+  color: var(--theme-text);
+}
+
+.academic-accent {
+  color: var(--theme-accent);
+}
+
+.academic-btn {
+  background-color: var(--theme-accent);
+  color: var(--theme-accent-contrast);
+}
+
+/* Número de fecha delineado estilo referencia Emily Smith */
+.academic-outlined-number {
+  color: transparent;
+  -webkit-text-stroke: 1.75px var(--theme-accent);
+  font-family: 'Playfair Display', serif;
+  line-height: 1;
+}

@@ -1,0 +1,60 @@
+/* Variantes visuales del tema Gala inspiradas en el diseño floral y dorado de 15 Años */
+.gala-theme.variant-classic-gold {
+  --theme-bg: #FFFDFB;
+  --theme-text: #3B2314;
+  --theme-muted: #7C5841;
+  --theme-accent: #C58F2B;
+  --theme-accent-contrast: #FFFFFF;
+  --theme-card-bg: rgba(255, 255, 255, 0.86);
+  --theme-card-border: rgba(212, 175, 55, 0.45);
+  background-image: radial-gradient(circle at 50% 35%, #FFFFFF 0%, #FFF5F8 70%, #FCE7F3 100%);
+}
+
+.gala-theme.variant-neon-garden {
+  --theme-bg: #0D060F;
+  --theme-text: #FDF2F8;
+  --theme-muted: #F472B6;
+  --theme-accent: #EC4899;
+  --theme-accent-contrast: #FFFFFF;
+  --theme-card-bg: rgba(29, 12, 33, 0.86);
+  --theme-card-border: rgba(236, 72, 153, 0.45);
+}
+
+.gala-theme.variant-starry-night {
+  --theme-bg: #0B132B;
+  --theme-text: #F8FAFC;
+  --theme-muted: #94A3B8;
+  --theme-accent: #D4AF37;
+  --theme-accent-contrast: #0B132B;
+  --theme-card-bg: rgba(28, 37, 65, 0.85);
+  --theme-card-border: rgba(212, 175, 55, 0.4);
+}
+
+.gala-theme {
+  background-color: var(--theme-bg);
+  color: var(--theme-text);
+}
+
+.gala-card {
+  background: var(--theme-card-bg);
+  border: 1px solid var(--theme-card-border);
+  backdrop-filter: blur(8px);
+  color: var(--theme-text);
+}
+
+.gala-accent {
+  color: var(--theme-accent);
+}
+
+.gala-btn {
+  background-color: var(--theme-accent);
+  color: var(--theme-accent-contrast);
+}
+
+/* Texto dorado 3D en relieve idéntico a "Mis 15 años" de la referencia */
+.gala-gold-3d-text {
+  background: linear-gradient(180deg, #F4D068 0%, #C78826 55%, #8F560E 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0px 3px 3px rgba(90, 48, 8, 0.35));
+}

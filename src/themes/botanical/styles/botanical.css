@@ -1,0 +1,58 @@
+/* Variantes visuales del tema Botanical inspiradas en la invitación de boda sobre mármol */
+.botanical-theme.variant-crystal {
+  --theme-bg: #FCFBF9;
+  --theme-text: #1F2421;
+  --theme-muted: #5A6558;
+  --theme-accent: #5C7457;
+  --theme-accent-contrast: #FFFFFF;
+  --theme-card-bg: rgba(255, 255, 255, 0.85);
+  --theme-card-border: rgba(92, 116, 87, 0.28);
+  --theme-card-blur: 10px;
+  background-image:
+    radial-gradient(circle at 88% 8%, rgba(212, 175, 55, 0.16) 0%, transparent 28%),
+    radial-gradient(circle at 12% 92%, rgba(212, 175, 55, 0.16) 0%, transparent 28%),
+    linear-gradient(135deg, #FFFFFF 0%, #F7F5F0 50%, #FDFCFB 100%);
+}
+
+.botanical-theme.variant-velvet {
+  --theme-bg: #0D1627;
+  --theme-text: #F8FAFC;
+  --theme-muted: #CBD5E1;
+  --theme-accent: #D4AF37;
+  --theme-accent-contrast: #0D1627;
+  --theme-card-bg: rgba(20, 33, 59, 0.85);
+  --theme-card-border: rgba(212, 175, 55, 0.35);
+  --theme-card-blur: 10px;
+}
+
+.botanical-theme.variant-minimalist {
+  --theme-bg: #F4F3F0;
+  --theme-text: #292524;
+  --theme-muted: #78716C;
+  --theme-accent: #C26D53;
+  --theme-accent-contrast: #FFFFFF;
+  --theme-card-bg: rgba(255, 255, 255, 0.92);
+  --theme-card-border: rgba(194, 109, 83, 0.25);
+  --theme-card-blur: 4px;
+}
+
+.botanical-theme {
+  background-color: var(--theme-bg);
+  color: var(--theme-text);
+}
+
+.botanical-card {
+  background: var(--theme-card-bg);
+  border: 1px solid var(--theme-card-border);
+  backdrop-filter: blur(var(--theme-card-blur));
+  color: var(--theme-text);
+}
+
+.botanical-accent {
+  color: var(--theme-accent);
+}
+
+.botanical-btn {
+  background-color: var(--theme-accent);
+  color: var(--theme-accent-contrast);
+}

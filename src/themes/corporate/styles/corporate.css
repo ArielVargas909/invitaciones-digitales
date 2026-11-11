@@ -1,0 +1,50 @@
+/* Variantes visuales del tema Corporate: summit-dark | startup-light | exec-minimal */
+.corporate-theme.variant-summit-dark {
+  --theme-bg: #020617;
+  --theme-text: #F8FAFC;
+  --theme-muted: #94A3B8;
+  --theme-accent: #3B82F6;
+  --theme-accent-contrast: #FFFFFF;
+  --theme-card-bg: rgba(15, 23, 42, 0.88);
+  --theme-card-border: rgba(59, 130, 246, 0.35);
+}
+
+.corporate-theme.variant-startup-light {
+  --theme-bg: #FAF5FF;
+  --theme-text: #1E1B4B;
+  --theme-muted: #6B7280;
+  --theme-accent: #7C3AED;
+  --theme-accent-contrast: #FFFFFF;
+  --theme-card-bg: #FFFFFF;
+  --theme-card-border: rgba(124, 58, 237, 0.25);
+}
+
+.corporate-theme.variant-exec-minimal {
+  --theme-bg: #F4F4F5;
+  --theme-text: #18181B;
+  --theme-muted: #52525B;
+  --theme-accent: #18181B;
+  --theme-accent-contrast: #FFFFFF;
+  --theme-card-bg: #FFFFFF;
+  --theme-card-border: #D4D4D8;
+}
+
+.corporate-theme {
+  background-color: var(--theme-bg);
+  color: var(--theme-text);
+}
+
+.corporate-card {
+  background: var(--theme-card-bg);
+  border: 1px solid var(--theme-card-border);
+  color: var(--theme-text);
+}
+
+.corporate-accent {
+  color: var(--theme-accent);
+}
+
+.corporate-btn {
+  background-color: var(--theme-accent);
+  color: var(--theme-accent-contrast);
+}

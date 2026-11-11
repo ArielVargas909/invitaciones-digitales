@@ -1,0 +1,75 @@
+{
+  "variant": "classic-gold",
+  "event": {
+    "type": "Mis 15 Años",
+    "title": "Valentina",
+    "date": "2026-12-20T20:00:00",
+    "hashtag": "#XVValentina",
+    "message": "Una noche mágica e inolvidable está por comenzar y tu presencia la hará aún más especial."
+  },
+  "locations": [
+    {
+      "name": "Catedral Metropolitana",
+      "address": "Plaza Murillo, Centro",
+      "time": "19:00 hrs",
+      "mapsUrl": "https://maps.google.com/?q=Catedral+Metropolitana"
+    },
+    {
+      "name": "Gran Salón Imperial",
+      "address": "Av. Ballivián, Calacoto",
+      "time": "20:30 hrs",
+      "mapsUrl": "https://maps.google.com/?q=Calacoto+Av+Ballivian"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "19:00 hrs",
+      "activity": "Misa de Acción de Gracias",
+      "description": "Bendición espiritual junto a padres y padrinos."
+    },
+    {
+      "time": "21:00 hrs",
+      "activity": "Entrada Triunfal & Vals",
+      "description": "Cambio de zapatilla, vals tradicional y brindis."
+    },
+    {
+      "time": "22:30 hrs",
+      "activity": "Apertura de Pista & Hora Loca",
+      "description": "Show de luces, cotillón neón y música en vivo."
+    }
+  ],
+  "entertainment": {
+    "music": [
+      "Cuarteto de Cuerdas Imperial (20:30 hrs)",
+      "DJ Live & Banda En Vivo (22:30 hrs)"
+    ],
+    "games": [
+      "Show de robots LED y Hora Loca",
+      "Concurso a la mejor coreografía por grupos",
+      "Glitter Bar & Espejo Mágico de Fotos"
+    ]
+  },
+  "honorees": [
+    "Padres: Sr. Alejandro Ríos y Sra. Patricia Gómez",
+    "Padrinos de Honor: Sr. Fernando Rojas y Sra. Claudia Méndez",
+    "Padrinos de Anillo: Familia Salazar"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=800&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?q=80&w=800&auto=format&fit=crop"
+  ],
+  "logistics": {
+    "rules": [
+      "Presentar invitación digital al ingreso del salón",
+      "Respetar la asignación de mesas en recepción"
+    ]
+  },
+  "protocol": {
+    "gifts": "Buzón de sobres disponible en la entrada del salón",
+    "accommodations": "Hotel sugerido para invitados: Suites Camino Real"
+  },
+  "extras": {
+    "hashtag": "#XVValentina2026",
+    "wifi": "Red: XV_Valentina / Pass: Gala2026"
+  }
+}

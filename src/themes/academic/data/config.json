@@ -1,0 +1,74 @@
+{
+  "variant": "tech-future",
+  "event": {
+    "type": "Acto de Graduación",
+    "title": "Promoción 2026 - Ingeniería",
+    "date": "2026-12-18T18:00:00",
+    "hashtag": "#Graduacion2026",
+    "message": "Culminamos una etapa de esfuerzo y dedicación, y queremos celebrar este logro académico junto a ti."
+  },
+  "locations": [
+    {
+      "name": "Paraninfo Universitario",
+      "address": "Campus Central, Av. Villazón",
+      "time": "18:00 hrs",
+      "mapsUrl": "https://maps.google.com/?q=Paraninfo+Universitario"
+    },
+    {
+      "name": "Club de Ejecutivos",
+      "address": "Zona Sur, Calle 15",
+      "time": "21:00 hrs",
+      "mapsUrl": "https://maps.google.com/?q=Calacoto+Calle+15"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "18:00 hrs",
+      "activity": "Ingreso de Graduandos",
+      "description": "Desfile solemne del claustro académico y graduados."
+    },
+    {
+      "time": "19:00 hrs",
+      "activity": "Juramento & Entrega de Títulos",
+      "description": "Imposición de medallas y entrega de diplomas académicos."
+    },
+    {
+      "time": "21:00 hrs",
+      "activity": "Cena & Brindis de Honor",
+      "description": "Celebración social junto a familiares e invitados."
+    }
+  ],
+  "entertainment": {
+    "music": [
+      "Coro Polifónico Universitario (18:30 hrs)",
+      "Orquesta Tropical & DJ Invitado (22:00 hrs)"
+    ],
+    "games": [
+      "Proyección de cápsula del tiempo de la promoción",
+      "Menciones honoríficas y anecdotario estudiantil"
+    ]
+  },
+  "honorees": [
+    "Padrino de Promoción: Ing. Roberto Morales Ph.D.",
+    "Madrina de Brindis: Lic. Elena Vargas",
+    "Decano de Facultad: Dr. Martín Alcázar"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=800&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=800&auto=format&fit=crop"
+  ],
+  "logistics": {
+    "rules": [
+      "Puntualidad estricta para el ingreso al Paraninfo",
+      "No se permite el uso de confeti metálico dentro del auditorio"
+    ]
+  },
+  "protocol": {
+    "gifts": "Mesa de presentes / Lluvia de sobres en la recepción",
+    "accommodations": "Hospedaje sugerido para familiares: Hotel Presidente"
+  },
+  "extras": {
+    "hashtag": "#GraduacionIng2026",
+    "wifi": "Red: GalaGraduacion / Pass: Promo2026"
+  }
+}

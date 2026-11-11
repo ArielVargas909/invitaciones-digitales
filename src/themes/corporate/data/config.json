@@ -1,0 +1,74 @@
+{
+  "variant": "summit-dark",
+  "event": {
+    "type": "Cumbre Empresarial",
+    "title": "Foro de Innovación 2026",
+    "date": "2026-12-10T09:00:00",
+    "hashtag": "#Innovacion2026",
+    "message": "Liderando la transformación digital y el crecimiento sostenible en el sector empresarial."
+  },
+  "locations": [
+    {
+      "name": "Centro de Convenciones Real",
+      "address": "Av. Empresarial 450, Torre Norte",
+      "time": "09:00 hrs",
+      "mapsUrl": "https://maps.google.com/?q=Centro+de+Convenciones"
+    },
+    {
+      "name": "Salón Ejecutivo Panorama",
+      "address": "Piso 18, Torre Norte",
+      "time": "13:00 hrs",
+      "mapsUrl": "https://maps.google.com/?q=Torre+Empresarial"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "08:30 hrs",
+      "activity": "Acreditación & Café",
+      "description": "Entrega de credenciales y material ejecutivo."
+    },
+    {
+      "time": "09:30 hrs",
+      "activity": "Keynote: Transformación IA",
+      "description": "Conferencia magistral sobre inteligencia artificial aplicada."
+    },
+    {
+      "time": "11:30 hrs",
+      "activity": "Panel de Liderazgo Ejecutivo",
+      "description": "Debate abierto con directores regionales."
+    }
+  ],
+  "entertainment": {
+    "music": [
+      "Ensamble de Jazz Instrumental (13:00 hrs)",
+      "Ambient Lounge Set (14:30 hrs)"
+    ],
+    "games": [
+      "Dinámica de Speed Networking",
+      "Sorteo de becas tecnológicas entre asistentes"
+    ]
+  },
+  "honorees": [
+    "Patrocinador Platino: Grupo Financiero Andino",
+    "Alianza Tecnológica: TechCorp Latam",
+    "Invitado de Honor: Cámara Nacional de Comercio"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1511578314322-379afb476865?q=80&w=800&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=800&auto=format&fit=crop"
+  ],
+  "logistics": {
+    "rules": [
+      "Ingreso exclusivo con credencial acreditada",
+      "Mantener dispositivos móviles en silencio en el auditorio"
+    ]
+  },
+  "protocol": {
+    "gifts": "Kit corporativo incluido en el registro de ingreso",
+    "accommodations": "Hotel sede con tarifa corporativa: Hotel Real Plaza"
+  },
+  "extras": {
+    "hashtag": "#ForoInnovacion2026",
+    "wifi": "Red: Summit_Corp / Pass: Inno2026"
+  }
+}
